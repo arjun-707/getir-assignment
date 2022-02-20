@@ -1,0 +1,13 @@
+GET http://localhost:3000/v1/ping
+content-type: application/json
+
+####
+POST http://localhost:3000/v1/records/counts
+content-type: application/json
+
+{
+    "startDate": "2016-01-26",
+    "endDate": "2018-02-02",
+    "minCount": 2700,
+    "maxCount": 3000
+}
