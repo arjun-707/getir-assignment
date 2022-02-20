@@ -21,3 +21,7 @@
 
 ###### **Note**
 before running add required values in env file
+
+###### Endpoints:
+* http://localhost:3000/v1/ping            OR  https://getir-assignment-arjun.herokuapp.com/v1/ping
+* http://localhost:3000/v1/records/counts  OR  https://getir-assignment-arjun.herokuapp.com/v1/records/counts
